@@ -4,10 +4,12 @@
 permalink:           pretty
 #relative_permalinks: true
 
+host:                0.0.0.0
+
 # Setup
 title:               BLOG
-tagline:             "Hey You! Don't Hurry."
-description:         "be responsible for yourself."
+tagline:             "拣尽寒枝不肯栖，寂寞沙洲冷。"
+description:         "陈卡卡个人博客"
 url:                 http://kaka.xy-kaka.cn/
 baseurl:             ''
 paginate:            1
