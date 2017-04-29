@@ -8,8 +8,8 @@ host:                0.0.0.0
 
 # Setup
 title:               BLOG
-tagline:             "拣尽寒枝不肯栖，寂寞沙洲冷。"
-description:         "陈卡卡个人博客"
+tagline:             "陈卡卡个人博客"
+description:         "拣尽寒枝不肯栖，寂寞沙洲冷。"
 url:                 http://kaka.xy-kaka.cn/
 baseurl:             ''
 paginate:            1
